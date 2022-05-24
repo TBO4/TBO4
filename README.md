@@ -1,5 +1,11 @@
 ### Currently broadening horizons in technology as an beginner.
 
+Currently participating in junior internship at Micro Focus. 
+
+* Setting up GitHub profile
+* Basic data science
+* Development tools
+* Team coloboration 
 <!--
 **TBO4/TBO4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
