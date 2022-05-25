@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 -->
 ## Contact Info
 Email: thelegitty@gmail.com
+
 Discord: Ty-Bo#5291
+
